@@ -8,7 +8,8 @@ const nextConfig = {
         protocol: "http"
       }
     ]
-  }
+  },
+  output: "export"
 }
 
 export default nextConfig
